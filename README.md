@@ -221,7 +221,7 @@ The program:
 
 ### Edit and Update
 
-![Edit and Update Output](edit-update.png)
+![Edit and Update Output](edit.png)
 
 ### View MP3 Tags
 
