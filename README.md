@@ -211,6 +211,18 @@ The program:
 
 ## 🖥️ Sample Output
 
+### Help
+
+![Help Output](help.png)
+
+### View
+
+![View Output](view.png)
+
+### Edit and Update
+
+![Edit and Update Output](edit-update.png)
+
 ### View MP3 Tags
 
 Example output:
